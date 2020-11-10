@@ -12,6 +12,9 @@
   <body>
       <h2>Blog Title</h2>
       <p>Some data about this blog post.</p>
+      
+      <h2>Categories</h2>
+      <p>Sports | Business.</p>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
